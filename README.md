@@ -13,6 +13,6 @@ Plugins list is here - [https://github.com/melezhik/sparrow-hub/blob/master/spar
  ----- | ----------- | ------------ |
 [swat-nginx](https://github.com/melezhik/swat-nginx.git) | smoke tests for [nginx](https://www.nginx.com/resources/wiki/) web server | `swat-nginx https://github.com/melezhik/swat-nginx.git` 
 [swat-yars](https://github.com/melezhik/swat-yars.git) | smoke tests for [YARS](https://metacpan.org/pod/Yars) - Yet Another RESTful-Archive Service | `swat-yars https://github.com/melezhik/swat-yars.git`
- metacpan  | smoke tests for [meatcpan](https://metacpan.org) API | [https://github.com/CPAN-API/metacpan-monitoring.git](https://github.com/CPAN-API/metacpan-monitoring.git) | `metacpan https://github.com/CPAN-API/metacpan-monitoring.git` 
+ [metacpan](https://github.com/CPAN-API/metacpan-monitoring.git)  | smoke tests for [meatcpan](https://metacpan.org) API |  `metacpan https://github.com/CPAN-API/metacpan-monitoring.git` 
 [swat-app-docsisious](https://github.com/melezhik/swat-app-docsisious.git) | | `swat-app-docsisious https://github.com/melezhik/swat-app-docsisious.git`
 
